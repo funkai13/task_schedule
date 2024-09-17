@@ -12,13 +12,13 @@ Widget customBottomBar() {
           onPressed: () {},
           icon: Container(
             decoration: const BoxDecoration(
-              color: Colors.blue, // Fondo azul
-              shape: BoxShape.circle, // Hacemos el fondo circular
+              color: Colors.blue,
+              shape: BoxShape.circle,
             ),
             child: const Icon(
-              Icons.schedule, // O el icono que prefieras
-              color: Colors.white, // Las manijas blancas
-              size: 35, // Tamaño del ícono
+              Icons.schedule,
+              color: Colors.white,
+              size: 35,
             ),
           ),
         ),
