@@ -68,18 +68,6 @@ class _DaySelector extends State<DaySelector> {
 
 final List<Map<String, String>> _dayData = [
   {
-    'day': 'Mon',
-    'date': '16',
-  },
-  {
-    'day': 'Tue',
-    'date': '17',
-  },
-  {
-    'day': 'Wed',
-    'date': '18',
-  },
-  {
     'day': 'Thu',
     'date': '19',
   },
@@ -96,11 +84,15 @@ final List<Map<String, String>> _dayData = [
     'date': '22',
   },
   {
-    'day': 'Sun',
-    'date': '22',
+    'day': 'Mon',
+    'date': '23',
   },
   {
-    'day': 'Sun',
-    'date': '22',
+    'day': 'Tue',
+    'date': '24',
   },
+  {
+    'day': 'Wed',
+    'date': '25',
+  }
 ];
